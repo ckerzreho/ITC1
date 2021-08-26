@@ -1,0 +1,24 @@
+A dire :
+- programme assez ambitieux
+- niveau d'entrée hétérogène
+- travail par soit même avec cours dans le document. Sous forme de rappels / synthèse de ce que vous avez déjà vu
+--> être actif : lire, tester, faire ce qui est demandé, et poser des questions quand vous ne comprenez pas.
+
+Pendant 5-6 semaines : retour sur les principes de base du python et de la programmation : types usuels, expressions, fonctions, algorithmes usuels
+
+2 parties : 
+- prise en main de l'environnement notebook
+- premier TP sur les notions d'expression, de type, d'affectation, de variable. Savoir écrire des expressions mathématiques.
+
+
+Prise en main : 
+- créer un notebook
+- exécuter une cellule (Ctr+entrée ou Shift+Entrée)
+- créer une cellule de texte
+- créer une cellule de code
+- vérifier qu'un objet créer dans une cellule est connue dans une autre !
+- redémarer le notebook ! Plus rien n'est connu
+
+- Importer un notebbok
+
+
